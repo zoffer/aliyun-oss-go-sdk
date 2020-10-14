@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/aliyun/aliyun-oss-go-sdk/oss"
+	"github.com/zoffer/aliyun-oss-go-sdk/oss"
 )
 
 // DeleteObjectSample shows how to delete single file or multiple files

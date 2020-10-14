@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/aliyun/aliyun-oss-go-sdk/oss"
+	"github.com/zoffer/aliyun-oss-go-sdk/oss"
 	. "gopkg.in/check.v1"
 )
 
